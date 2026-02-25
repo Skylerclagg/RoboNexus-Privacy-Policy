@@ -1,15 +1,23 @@
 # Privacy Policy
-Skyler Clagg built the ADC Hub app based on Wiliam Castro's VRC Roboscout as an Open Source app. This SERVICE is provided by Skyler Clagg at no cost and is intended for use as is.
+Skyler Clagg built Robotics Nexus (RoboNexus) as a free, open-source app. This Privacy Policy explains how information is collected, used, and disclosed when you use the Service.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at VRC RoboScout unless otherwise defined in this Privacy Policy.
+By using RoboNexus, you agree to the collection and use of information as described in this policy. Any information collected is used solely for providing and improving the Service and will not be shared with anyone except as described below.
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain information. The types of data collected are described below.
+
+Push Notifications
+
+If you choose to enable push notifications, the app collects your device's push notification token (a unique identifier assigned by Apple or Google to your device) and stores it on our servers (Firebase Firestore) along with your selected favorite teams and notification preferences. This data is used solely to deliver match result and schedule notifications for teams you have chosen to follow. Your push token is not linked to your identity and is not shared with any third parties. You may disable push notifications at any time through your device settings or within the app, which will remove your data from our servers.
+
+Location Data
+
+The app may request access to your device's location to show nearby events and venues. Location data is processed on your device only and is not transmitted to or stored on our servers.
+
+Analytics
+
+I use Firebase Analytics, a service provided by Google, to collect anonymous usage data such as app launches, screen views, device type, and operating system version. This data is not linked to your identity and is used solely to understand how the app is used and to improve the Service. No advertising identifiers are collected. You can learn more about how Google uses data at https://policies.google.com/privacy.
 
 ## Log Data
 
@@ -48,7 +56,7 @@ I do not knowingly collect personally identifiable information from children. I 
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2024-10-28.
+This policy is effective as of 2026-2-25.
 
 ## Contact Us
 
