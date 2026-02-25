@@ -25,9 +25,7 @@ I want to inform you that whenever you use my Service, in the case of an error i
 
 ## Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+The native mobile app does not use cookies. The web version of the Service may use cookies or similar technologies as part of standard web functionality. Third-party services used by the app, such as Firebase, may use cookies on the web version to collect anonymous usage data.
 
 ## Service Providers
 
